@@ -54,7 +54,6 @@ Not there yet. Getting there fast.
 | Project | Stack | Status |
 |---|---|---|
 | Java CLI Budget Tracker | Java, OOP, Maven | In progress |
-| Toy Robot Simulator | Java, OOP | Complete |
 
 *More coming. I build in public.*
 
